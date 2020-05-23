@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "name": "le van a",
+        "tel": "0394939543",
+        "permission": 1
+    },
+    {
+        "id": 2,
+        "name": "nguyen van b",
+        "tel": "0394939543",
+        "permission": 2
+    },
+    {
+        "id": 3,
+        "name": "tran van c",
+        "tel": "0394939543",
+        "permission": 1
+    },
+    {
+        "id": 4,
+        "name": "phan van d",
+        "tel": "0394939543",
+        "permission": 3
+    },
+    {
+        "id": 5,
+        "name": "quang van e",
+        "tel": "0394939543",
+        "permission": 2
+    }
+]
